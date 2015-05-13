@@ -1,0 +1,33 @@
+header {
+	height: 250px;
+	background: lighten($red, 12%);
+	padding: $woid $woid*10; 
+	margin-bottom: $woid/2;
+	margin-top: $woid/2;
+}
+
+
+div.wrapp {
+	@extend %clearfix;
+
+	width: 1000px;
+	margin:0 auto;
+	background: $green;
+
+
+
+	aside.sidebar {
+		max-width: 20%;
+		display: inline-block;
+		background: lighten($green, 6%);
+	}
+
+	aside.content {
+		width:65%;
+		float: right;
+		background: lighten($green, 8%);
+	}
+
+}
+
+
