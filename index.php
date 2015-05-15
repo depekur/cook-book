@@ -1,4 +1,4 @@
-<?php  require('src/model/db.php'); ?>
+<?php  require('src/core/db.php'); ?>
 
 <!DOCTYPE html>
 <html lang="ru">
@@ -60,7 +60,7 @@
 
 	<aside class="content">
 
-<?php  require('src/view/loop.php'); ?>
+<?php  require('src/views/loop.php'); ?>
 
 	</aside>
 </div>
