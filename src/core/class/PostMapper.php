@@ -1,12 +1,6 @@
-<?php
-class Controller 
+<?php 
+class PostMapper extends Mapper 
 {
-	public $dbh;
-
-	public function __construct($d) {
-		$this->dbh = $d;
-	}
-
 	public function selectAll() {
 
 		$sth = $this->dbh->prepare("SELECT * FROM chat");
@@ -14,4 +8,5 @@ class Controller
 		return $sth;
 	}
 }
+
 ?>

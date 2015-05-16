@@ -2,7 +2,7 @@
 error_reporting(E_ERROR | E_PARSE);
 // открываем базу данных 
 // создаем если базы нет 
-$db = sqlite_open("k"); 
+$db = sqlite_open("src/core/db/k"); 
   
 // Создадим таблицу в базе 
 $query=("SELECT id FROM chat LIMIT 1");
