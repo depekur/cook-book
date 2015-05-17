@@ -1,25 +1,28 @@
-<?php  require('src/core/db.php'); ?>
-
+<?php  //require('src/core/db.php');?>
+<?php  //require('src/core/controller.php');?>
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" ng-app="CookBook">
 <head>
-	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
 	<title>Cook Book</title>
 
 	<link rel="stylesheet" href="css/main.css" />
 
-	<script src="src/bower_components/jquery/dist/jquery.js"></script>
+
 	<script src="src/bower_components/angular/angular.js"></script>
 	<script src="src/bower_components/angular-animate/angular-animate.js"></script>
 	<script src="src/bower_components/angular-route/angular-route.js"></script>
 	<script src="src/bower_components/angular-resource/angular-resource.js"></script>
+
+	<script src="src/app/app.js"></script>
+	<script src="src/app/controller.js"></script>
 </head>
 
 <body>
 	<header>
 
 	<div class="">
-		<h1>Cook Book</h1>
+		<h1>CookBook</h1>
 
 		<form class="chat-form" method="post" action="index.php">
 	    	<!--<p>Имя <input name="name" placeholder="anon"></p>-->
@@ -60,18 +63,13 @@
 
 	<aside class="content">
 
-<?php  require('src/views/loop.php'); ?>
+		<div ng-view ></div>
 
 	</aside>
 </div>
 
 
 
-
-<script type="text/javascript">
-  var chat = document.getElementById("chat");
-  chat.scrollTop = chat.scrollHeight;
-</script>
 
 </body>
 </html>

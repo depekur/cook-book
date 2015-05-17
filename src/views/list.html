@@ -1,0 +1,19 @@
+<div class="chat-wrap">
+  <div id="chat"> 
+
+  <ul>
+
+    <li ng-repeat="post in posts track by $index">
+
+      <i class="post-meta">>{{post.id}} by <b>{{post.name}}</b> at {{post.time}} 
+      </i>
+          <form class="post-form">
+            <button name="delete" class="delete-button" formmethod="post" value={{post.id}} >x
+            </button>
+          </form>      
+      <p > {{post.massage}} </p>
+    </li>
+  </ul>
+
+  </div>
+</div>

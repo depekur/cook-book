@@ -9,12 +9,11 @@ class ToJson
 	}
 
 	public function convert(){
-		$this->stmt->setFetchMode(PDO::FETCH_ASSOC);
-	
+		$this->stmt->setFetchMode(PDO::FETCH_ASSOC);	
 		while($row = $this->stmt->fetch()){
 		    $list[] = $row;
 		}
-		
+		$this->stmt = null;
 		return json_encode($list);
 		
 	}
