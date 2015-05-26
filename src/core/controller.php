@@ -1,6 +1,5 @@
 <?php
 require ('bootstrap.php');
-//require ('Slim/Slim.php');
 
 // input
 // output
@@ -26,6 +25,8 @@ $app -> get('/', function () {
 		$json = new ToJson($ctrl);
 		$json = $json->convert();
 
+		
+		//$app->response()->header("Content-Type", "application/json");
 		echo $json;
 
 	
@@ -35,8 +36,6 @@ $app -> get('/', function () {
 }); 
 
 
-$app->response()->header("Content-Type", "application/json");
-echo $json;
  
 $app -> run();
 
