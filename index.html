@@ -7,11 +7,10 @@
 	<link rel="stylesheet" href="css/main.css" />
 
 
-	<script src="src/bower_components/angular/angular.js"></script>
-	<script src="src/bower_components/angular-animate/angular-animate.js"></script>
-	<script src="src/bower_components/angular-route/angular-route.js"></script>
-	<script src="src/bower_components/angular-resource/angular-resource.js"></script>
-
+	<script src="src/lib/bower_components/angular/angular.js"></script>
+	<script src="src/lib/bower_components/angular-animate/angular-animate.js"></script>
+	<script src="src/lib/bower_components/angular-route/angular-route.js"></script>
+	<script src="src/lib/bower_components/angular-resource/angular-resource.js"></script>
 	<script src="src/app/app.js"></script>
 	<script src="src/app/controller.js"></script>
 </head>
@@ -22,16 +21,11 @@
 	<div class="">
 		<h1>CookBook</h1>
 
-		<form class="chat-form" method="post" action="index.php">
-	    	<!--<p>Имя <input name="name" placeholder="anon"></p>-->
-	  		<textarea name="massage" cols="25" rows="6" required autofocus>
-	     		</textarea>
-	  		<input type="submit">
-		</form>
-<br><br>
-		<button>Добавить свой рецепт</button>
-		<button>Книга Рецептов</button>
 
+<br><br>
+		
+		<a href="#/list"><button>Книга Рецептов</button></a>
+		<a href="#/add"><button>Добавить свой рецепт</button></a>
 
 		</div>
 	</header>
@@ -60,14 +54,15 @@
 	</aside>
 
 	<aside class="content">
+		<div class="chat-wrap">
+		  <div id="chat"> 
 
-		<div ng-view ></div>
+			<div ng-view ></div>
 
+		  </div>
+		</div>
 	</aside>
 </div>
-
-
-
 
 </body>
 </html>

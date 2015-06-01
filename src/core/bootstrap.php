@@ -1,5 +1,5 @@
 <?php
-require ('../Slim/Slim.php');
+require ('../lib/Slim/Slim.php');
 $slim = \Slim\Slim::registerAutoloader();
 
 

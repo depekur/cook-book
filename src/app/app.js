@@ -13,6 +13,10 @@ CookBook.config(['$routeProvider',
         templateUrl: 'src/views/list.html',
         controller: 'ListCtrl'
       }).
+      when('/add', {
+        templateUrl: 'src/views/add.html',
+        controller: 'AddCtrl'
+      }).
       otherwise({
         redirectTo: '/list'
       });

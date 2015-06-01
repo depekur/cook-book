@@ -3,6 +3,8 @@
 
 var cookbookCtrl = angular.module('cookbookCtrl', []);
 
+// list
+
 cookbookCtrl.controller('ListCtrl', ['$scope', '$http',
 	function($scope, $http) {
 
@@ -13,3 +15,10 @@ cookbookCtrl.controller('ListCtrl', ['$scope', '$http',
 	$scope.orderProp = 'id';
 }]);
 
+// add 
+
+cookbookCtrl.controller('AddCtrl', ['$scope', '$http',
+	function($scope, $http) {
+
+
+}]);
