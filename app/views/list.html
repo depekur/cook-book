@@ -1,0 +1,33 @@
+<section class="recipes">	
+	<ul>
+		<li class="recipe-thumb" ng-repeat="recipe in recipes">
+			
+			<div class="thumb">
+				<img ng-src="{{ recipe.thumb }}" alt="{{ recipe.title }}" title="{{ recipe.title }}">
+			</div>
+
+			<div class="recipe-meta">
+				<h2>{{ recipe.title }}</h2>
+				<h4>{{ recipe.subtitle }}</h4>
+
+				<br>
+				
+				<ul>
+					<li>{{ recipe.portions }}</li>
+					<li>{{ recipe.calories }}</li>
+				</ul>
+
+				<br>
+
+				<a href="#/recipes/{{ recipe.link }}" alt="{{ recipe.title }}" title="{{ recipe.title }}">more</a>	
+			</div>
+			
+
+			
+
+				
+
+		</li>
+	</ul>
+</section>
+

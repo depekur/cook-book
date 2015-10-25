@@ -1,0 +1,25 @@
+section.recipes {
+	width: 900px;
+	margin: 0 auto;
+
+	li.recipe-thumb {
+		margin: 20px;
+		padding: 10px;
+		border: 1px solid #d9d9d9;
+
+		@include clearfix();
+	}
+
+	.thumb {
+		float: left;
+		height: 100%;
+	}
+
+	.recipe-meta {
+		width: 550px;
+		float: right;
+		margin-left: 10px;
+	}
+}
+
+
