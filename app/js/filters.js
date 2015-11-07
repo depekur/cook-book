@@ -2,8 +2,8 @@
 
 /* Filters */
 
-angular.module('phonecatFilters', []).filter('checkmark', function() {
+angular.module('cookbookFilters', []).filter('ampersants', function() {
   return function(input) {
-    return input ? '\u2713' : '\u2718';
+    return input.replace(/\&amp\;/g, '&').replace(/\&quot\;/g, '"');
   };
 });

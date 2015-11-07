@@ -4,6 +4,7 @@
 var cookbookApp = angular.module('cookbookApp', [
 	'ngRoute',
 	'cookbookCtrl',
+	'cookbookFilters',
 	'cookbookServices'
 ]);
 
