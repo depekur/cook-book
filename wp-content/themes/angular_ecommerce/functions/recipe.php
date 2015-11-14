@@ -5,7 +5,7 @@ function create_recipe() {
     register_post_type( 'recipes',
         array(
             'labels' => array(
-                'name' => 'Рацепты',
+                'name' => 'Рецепты',
                 'singular_name' => 'Рецепт',
                 'add_new' => 'Добавить',
                 'add_new_item' => 'Добавить рецепт',
