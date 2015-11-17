@@ -4,7 +4,7 @@ add_action( 'add_meta_boxes', 'add_recipe_meta_box' );
 
 add_action( 'save_post', 'save_recipe_meta_info' );
 add_action( 'save_post', 'save_recipe_meta_info_2' );
-//add_action( 'save_post', 'save_recipe_steps' );
+add_action( 'save_post', 'save_recipe_steps' );
 add_action( 'save_post', 'save_recipe_ingredients' );
 
 function add_recipe_meta_box() 

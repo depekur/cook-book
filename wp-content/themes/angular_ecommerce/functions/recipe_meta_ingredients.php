@@ -50,10 +50,5 @@ function save_recipe_ingredients( $post_id )
 								sanitize_text_field( $_POST[$rec . $i]) 
 								);
 		}
-
 	}
-
-	
-
-
 }

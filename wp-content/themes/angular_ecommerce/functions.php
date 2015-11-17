@@ -3,16 +3,13 @@
 require 'functions/theme_settings.php';
 require 'functions/add_scripts.php';
 
-
 require 'functions/recipe.php';
+require 'functions/recipe_taxonomy.php';
 require 'functions/recipe_meta.php';
 require 'functions/recipe_meta_info.php';
-//require 'functions/recipe_meta_steps.php';
+require 'functions/recipe_meta_steps.php';
 require 'functions/recipe_meta_info_2.php';
 require 'functions/recipe_meta_ingredients.php';
-require 'functions/recipe_taxonomy.php';
-
-
 
 
 

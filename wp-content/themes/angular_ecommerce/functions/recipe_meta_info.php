@@ -4,7 +4,7 @@
 function add_recipe_meta_box_view( $post ) {
 
 	// Add a nonce field so we can check for it later.
-	wp_nonce_field( 'save_recipe_meta_box', 'recipe_meta_box_nonce' );
+	wp_nonce_field( 'save_recipe_meta_info', 'recipe_meta_box_nonce' );
 
 	/*
 	 * Use get_post_meta() to retrieve an existing value
@@ -52,7 +52,7 @@ function add_recipe_meta_box_view( $post ) {
 
 
 
-function save_recipe_meta_box( $post_id ) 
+function save_recipe_meta_info( $post_id ) 
 {
 
 	/*
@@ -66,7 +66,7 @@ function save_recipe_meta_box( $post_id )
 	}
 
 	// Verify that the nonce is valid.
-	if ( ! wp_verify_nonce( $_POST['recipe_meta_box_nonce'], 'save_recipe_meta_box' ) ) {
+	if ( ! wp_verify_nonce( $_POST['recipe_meta_box_nonce'], 'save_recipe_meta_info' ) ) {
 		return;
 	}
 
