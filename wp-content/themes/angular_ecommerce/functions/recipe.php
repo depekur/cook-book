@@ -21,8 +21,8 @@ function create_recipe() {
             ),
             'public' => true,
             'menu_position' => 6,
-            'supports' => array( 'title'),
-            'taxonomies' => array( 'main_ingredients' ),
+            'supports' => array( 'title', 'thumbnail'),
+            'taxonomies' => array('ingredients'),
             //'menu_icon' => plugins_url( 'tat.png', __FILE__ ),
             'has_archive' => true
         )

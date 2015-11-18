@@ -3,7 +3,7 @@
 function add_recipe_ingredients_view ( $post ) 
 {
 
-	$ing = 11; //количество ингридиентов + 1, чтоб нумерация начиналась с 1 а не 0
+	$ing = 15; //количество ингридиентов + 1, чтоб нумерация начиналась с 1 а не 0
 
 	wp_nonce_field( 'save_recipe_ingredients', 'recipe_ingredients_nonce' );
 
@@ -39,7 +39,7 @@ function save_recipe_ingredients( $post_id )
 
 
 
-	$ing = 11;
+	$ing = 15;
 	$rec = 'recipe_ing_';
 
 	for ($i = 1; $i < $ing; $i++) {

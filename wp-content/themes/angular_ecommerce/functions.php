@@ -11,10 +11,8 @@ require 'functions/recipe_meta_steps.php';
 require 'functions/recipe_meta_info_2.php';
 require 'functions/recipe_meta_ingredients.php';
 
+require 'functions/recipe_uploader.php';
 
-
-
-// AJAX FUN 
 
 
 add_action('wp_ajax_nopriv_my_cool_ajax', 'my_ajax_func');

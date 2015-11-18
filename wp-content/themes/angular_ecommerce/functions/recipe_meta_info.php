@@ -14,6 +14,7 @@ function add_recipe_meta_box_view( $post ) {
 	$recipe_description = get_post_meta( $post->ID, '_recipe_description', true );
 	$recipe_main_photo = get_post_meta( $post->ID, '_recipe_main_photo', true );
 	$recipe_ing_photo = get_post_meta( $post->ID, '_recipe_ing_photo', true );
+	$recipe_thumb = get_post_meta( $post->ID, '_recipe_thumb', true );
 
 	?>
 
@@ -38,6 +39,12 @@ function add_recipe_meta_box_view( $post ) {
 	<p>
 		<label for="recipe_ing_photo">Фото ингридиентов:<br>
 			<input type="text" id="recipe_ing_photo" name="recipe_ing_photo" value="<?= esc_attr( $recipe_ing_photo ) ?>" size="100" />
+		</label>
+	</p>
+
+	<p>
+		<label for="recipe_thumb">Миниатюра:<br>
+			<input type="text" id="recipe_thumb" name="recipe_thumb" value="<?= esc_attr( $recipe_thumb ) ?>" size="100" />
 		</label>
 	</p>
 
@@ -105,6 +112,13 @@ function save_recipe_meta_info( $post_id )
 		update_post_meta( $post_id, 
 								'_recipe_ing_photo', 
 								sanitize_text_field( $_POST['recipe_ing_photo'] ) 
+								);
+	}
+
+	if ( isset( $_POST['recipe_thumb'] ) ) {
+		update_post_meta( $post_id, 
+								'_recipe_thumb', 
+								sanitize_text_field( $_POST['recipe_thumb'] ) 
 								);
 	}
 }

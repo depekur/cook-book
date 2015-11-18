@@ -1,0 +1,400 @@
+[18-Nov-2015 14:16:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3471
+[18-Nov-2015 14:17:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3471
+[18-Nov-2015 14:27:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 43
+[18-Nov-2015 14:29:10 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 43
+[18-Nov-2015 14:29:10 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 43
+[18-Nov-2015 14:29:20 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 43
+[18-Nov-2015 14:29:37 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 43
+[18-Nov-2015 14:31:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 43
+[18-Nov-2015 14:32:14 UTC] PHP Parse error:  syntax error, unexpected ''tax_input'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 43
+[18-Nov-2015 14:33:41 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:33:41 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:33:41 UTC] PHP Notice:  Undefined index: category in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 49
+[18-Nov-2015 14:34:39 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:34:39 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:34:39 UTC] PHP Notice:  Undefined index: category in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 49
+[18-Nov-2015 14:37:53 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:37:53 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:43:29 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:43:29 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:49:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:49:13 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:49:13 UTC] PHP Notice:  Undefined index: category in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 49
+[18-Nov-2015 14:54:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:54:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:55:38 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:55:38 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:56:28 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:56:28 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:57:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:57:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:58:37 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 14:58:37 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:15:43 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:15:43 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:19:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:19:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:36:55 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:36:55 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:37:23 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:37:23 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:38:47 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:38:47 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:39:47 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:39:47 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:40:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:40:33 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:42:05 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 15:42:05 UTC] PHP Notice:  Trying to get property of non-object in /var/www/lab/public_html/cook-book/wp-includes/post.php on line 3477
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array1 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array2 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array3 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array4 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array5 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array6 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array7 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array8 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array9 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array10 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array11 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Array to string conversion in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:26:02 UTC] PHP Notice:  Undefined index: Array12 in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 94
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 106
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 111
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 116
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 106
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 111
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 116
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 106
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 111
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 116
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 106
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 111
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 116
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 106
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 111
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 116
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 106
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 111
+[18-Nov-2015 17:57:56 UTC] PHP Notice:  Undefined variable: post_id in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 116
+[18-Nov-2015 18:26:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 79
+[18-Nov-2015 18:28:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 76
+[18-Nov-2015 18:29:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 76
+[18-Nov-2015 18:29:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 76
+[18-Nov-2015 18:29:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 79
+[18-Nov-2015 18:30:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 79
+[18-Nov-2015 18:31:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 79
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: title in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 45
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: link in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 47
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: category in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 54
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: subtitle in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 56
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: desc in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 57
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: headbg in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 58
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: thumb in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 59
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: ingbg in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 60
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: portions in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 61
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: calories in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 62
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: time in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 63
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: ingredients in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 67
+[18-Nov-2015 18:49:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 67
+[18-Nov-2015 18:49:18 UTC] PHP Notice:  Undefined index: steps in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 74
+[18-Nov-2015 18:49:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/lab/public_html/cook-book/wp-content/themes/angular_ecommerce/functions/recipe_uploader.php on line 74

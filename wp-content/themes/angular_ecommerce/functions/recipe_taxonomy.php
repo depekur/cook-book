@@ -4,7 +4,7 @@
 function main_ingredients_taxonomy() {
 	// create a new taxonomy
 	register_taxonomy(
-		'main_ingredient',
+		'ingredients',
 		'recipes',
 		array(
 			'labels' => array(
@@ -20,8 +20,8 @@ function main_ingredients_taxonomy() {
 								'new_item_name'     => 'Новый ингридиент',
 								'menu_name'         => 'Ингридиенты',
 							),
-			'rewrite' => true,
-			'capabilities' => array(),
+			'rewrite' => array( 'slug' => 'ingredients' ),
+			//'capabilities' => array(),
 			'hierarchical' => true
 		)
 	);
