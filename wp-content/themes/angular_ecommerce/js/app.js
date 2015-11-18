@@ -12,11 +12,11 @@ cookbookApp.config(['$routeProvider',
 	function($routeProvider) {
 		$routeProvider.
 			when('/recipes', {
-				templateUrl: 'http://lab.bananagarden.net/cook-book/wp-content/themes/angular_ecommerce/views/list.html',
+				templateUrl: cookbook.theme_path + '/views/list.html',
 				controller: 'cookbookList'
 			}).
 			when('/recipes/:recipeId', {
-				templateUrl: 'http://lab.bananagarden.net/cook-book/wp-content/themes/angular_ecommerce/views/single.html',
+				templateUrl: cookbook.theme_path + '/views/single.html',
 				controller: 'cookbookSingle'
 			}).
       	otherwise({

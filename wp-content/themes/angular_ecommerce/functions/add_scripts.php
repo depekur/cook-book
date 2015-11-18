@@ -48,7 +48,8 @@ function add_scripts() {
    $protocol = isset( $_SERVER["HTTPS"] ) ? 'https://' : 'http://';
 
    $params = array(
-      'ajaxurl' => admin_url('admin-ajax.php', '$protocol')
+      'ajaxurl' => admin_url('admin-ajax.php', '$protocol'),
+      'theme_path' => get_template_directory_uri()
    );
 
    wp_localize_script( 'angular', 'cookbook', $params );

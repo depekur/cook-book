@@ -1,5 +1,7 @@
 <?php
 
+require 'vendor/autoload.php';
+
 require 'functions/theme_settings.php';
 require 'functions/add_scripts.php';
 

@@ -16,8 +16,6 @@ function recipe_uploader_widget() {
 	echo '<form method="post" style="text-align: center;">';
 	echo '<input name="recipe_uploader_submit" type="submit" class="button button-primary" value="Загрузить"><br>';
 	echo '</form>';
-	//echo get_theme_root();
-	echo get_template_directory();
 }
 
 
