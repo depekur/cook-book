@@ -17,14 +17,21 @@ require 'functions/recipe_uploader.php';
 
 
 
-add_action('wp_ajax_nopriv_my_cool_ajax', 'my_ajax_func');
-add_action('wp_ajax_my_cool_ajax', 'my_ajax_func');
+//add_action('wp_ajax_nopriv_my_cool_ajax', 'cookbook_core');
+//add_action('wp_ajax_my_cool_ajax', 'cookbook_core');
 
-function my_ajax_func() {
+add_action( 'init', 'cookbook_core' );
 
+function cookbook_core() {
+	$app = new \Slim\Slim();
+
+	$app->get('/recipe/', function ($name) {
+	    echo "Hello, " . $name;
+	});
+	$app->run();
+/*
    $tat_id = get_field('tattoo', absint( $_REQUEST['post_id'] ));
-
    echo wp_get_attachment_image( $tat_id, 'full' );
-
    die();
+*/   
 }

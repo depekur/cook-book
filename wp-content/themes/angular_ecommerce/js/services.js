@@ -6,7 +6,7 @@ var cookbookServices = angular.module('cookbookServices', ['ngResource']);
 
 cookbookServices.factory('Recipe', ['$resource',
 	function($resource){
-		return $resource( cookbook.theme_path + '/recipes/:recipeId.json', {}, {
-			query: {method:'GET', params:{recipeId:'recipes'}, isArray:true}
+		return $resource( cookbook.theme_path + '/:recipeId', {}, {
+			query: {method:'GET', params:{recipeId:'all'}, isArray:true}
 	});
 }]);

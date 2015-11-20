@@ -30,7 +30,7 @@
 	
 
 	<ul>
-		<li class="recipe-thumb" ng-repeat="recipe in recipes | limitTo: paginationLimit() | filter:query ">
+		<li class="recipe-thumb" ng-repeat="recipe in recipes | filter:query ">
 		<a href="#/recipes/{{ recipe.link }}" alt="{{ recipe.title }}" title="{{ recipe.title }}">
 			
 			<div class="thumb">
